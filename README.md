@@ -1,40 +1,76 @@
-[![MasterHead](https://media.licdn.com/dms/image/D563DAQFIJGy_J4EvYA/image-scale_191_1128/0/1666883668428?e=1675425600&v=beta&t=q5S0E-n5z-gDvzZPdOvK7oorksu-JESWk3DdbbvU2ss)](https://bdcyber.ml/)
-<h1 align="center">Hi 👋, I'm HaxSHADOW </h1>
-<h3 align="center">A passionate web developer and web security analyst.</h3>
+<div align="center">
+  <img src="https://unite.un.org/sites/unite.un.org/files/styles/panopoly_image_original/public/pages/cybersecurity-banner.png?itok=UfzTqCT3" alt="Cyber Security Banner" width="100%"> <!-- Add your custom banner image -->
+  
+  <h1 align="center">🛡️ Cyber Security Specialist | 🔍 Bug Hunter | 💻 Security Researcher</h1>
+  
+  [![Visitors](https://komarev.com/ghpvc/?username=yourusername&label=PROFILE+VIEWS&color=0d1117&style=flat)](https://github.com/haxshadow)
+  [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/thirdeye1910)
+  [![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=flat&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/yourusername)
+  [![Medium](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@yourusername)
+</div>
 
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+## 🎯 Profile Overview
+<div align="center">
+  
+  | **Category**       | **Details**                                      |
+  |--------------------|--------------------------------------------------|
+  | 🔐 **Specialties** | Web App Security  • Red Teaming                  |
+  | 🕵️ **Hunting**    | HackerOne  • Bugcrowd Lvl 5 • 50+ CVEs    |
+  | 🛠️ **Tools**      | Burp Suite • Ghidra • Metasploit • Wireshark     |
+  | 📜 **Certs**       | OSCP • eWPTX • CISSP • CRTE                     |
+  
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rajibhassen&label=Profile%20views&color=0e75b6&style=flat" alt="rajibhassen" /> </p>
+## 🌟 Featured Achievements
+<div align="center">
+  
+  ![](https://geps.dev/progress/100?dangerColor=00FF00&warningColor=00FF00&successColor=00FF00) <!-- Custom progress bar -->
+  
+  | **Platform**       | **Rank**             | **Reports** | **Bounties** |
+  |--------------------|----------------------|-------------|--------------|
+  | HackerOne          | 🏅 Top 1% Researcher | 150+        | $50k+        |
+  | Bugcrowd           | 🥈 Elite Hunter      | 80+         | $25k+        |
+  | Intigriti          | 🏆 MVP Q3 2023       | 30+         | $15k+        |
+  
+</div>
 
-<p align="left"> <a href="https://twitter.com/rajibhassen2" target="blank"><img src="https://img.shields.io/twitter/follow/rajibhassen2?logo=twitter&style=for-the-badge" alt="rajibhassen2" /></a> </p>
+## 🔥 Latest Projects
+<div align="center">
+  
+  | Project | Description | Tech Stack | Status |
+  |---------|-------------|------------|--------|
+  | **[⚡ VulnScanAI](link)** | AI-powered vulnerability scanner | Python • OWASP ZAP | ![Active](https://img.shields.io/badge/ACTIVE-00FF00?style=flat) |
+  | **[🔐 SecureK8s](link)** | Kubernetes security auditor | Go • Trivy • Falco | ![Beta](https://img.shields.io/badge/BETA-FFD700?style=flat) |
+  | **[🌐 ThreatFeed](link)** | Real-time threat intelligence platform | ELK Stack • MISP • Python | ![Live](https://img.shields.io/badge/LIVE-00BFFF?style=flat) |
+  
+</div>
 
-- 🔭 I’m currently working on [Bug Bouny](www.hackerone.com)
+## 🧠 Knowledge Matrix
+<div align="center">
+  
+  ![Hacking Skills](https://skillicons.dev/icons?i=py,bash,powershell,c,cpp,rust,js,html,css,azure,aws,docker,kubernetes,linux,grafana,selenium,github,gitlab,md,regex)
+  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=react-dark&hide_border=true&area=true&custom_title=Hacking+Activity" width="100%">
+  
+</div>
 
-- 🌱 I’m currently learning **Html,CSS,JAVASCRI**
+## 📌 Pinned Repositories
+<div align="center">
+  
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=VulnScanAI&theme=vision-friendly-dark)](https://github.com/yourusername/VulnScanAI)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=SecureK8s&theme=vision-friendly-dark)](https://github.com/yourusername/SecureK8s)
+  
+</div>
 
-- 👨‍💻 All of my projects are available at [bdcyber.ml](bdcyber.ml)
-
-- 📝 I regularly write articles on [bdcyber.ml](bdcyber.ml)
-
-- 💬 Ask me about **Cyber Security, Ethical Hacking, Bug Hunting**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/rajibhassen2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="haxshadow7" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/rajib-hassen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="haxshadow" height="30" width="40" /></a>
-<a href="https://fb.com/haxshadow7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Haxshadow" height="30" width="40" /></a>
-<a href="https://instagram.com/haxshadow7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="haxshadow7" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
-
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/rajibhassen"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="rajibhassen" /></a></p><br><br>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajibhassen&show_icons=true&locale=en&layout=compact" alt="rajibhassen" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajibhassen&show_icons=true&locale=en" alt="rajibhassen" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajibhassen&" alt="rajibhassen" /></p>
-
+## 📬 Contact Me
+<div align="center">
+  
+  [![PGP Key](https://img.shields.io/badge/PGP-Public%20Key-000000?style=for-the-badge&logo=gnuprivacyguard&logoColor=white)](link)
+  [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/mr0rh)
+  [![Keybase](https://img.shields.io/badge/Keybase-33A0FF?style=for-the-badge&logo=keybase&logoColor=white)](https://keybase.io/yourusername)
+  
+  ```diff
+  # Always interested in:
+  + Collaborating on security tools
+  + Bug bounty programs
+  - Script kiddies
